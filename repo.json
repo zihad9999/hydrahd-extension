@@ -1,5 +1,5 @@
 {
   "name": "HydraHD Repository",
   "repositoryUrl": "https://github.com/zihad9999/hydrahd-extension",
-  "manifestUrl": "https://raw.githubusercontent.com/zihad9999/hydrahd-extension/main/HydraHD.csx"
+  "manifestUrl": "https://raw.githubusercontent.com/zihad9999/hydrahd-extension/main/manifests.json"
 }
